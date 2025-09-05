@@ -1,5 +1,4 @@
-# Transformer Architectures, Fine-Tuning, and Multimodal Learning
-
+# Implementing Transformer Models for NLP (Text Generation and Sentiment Analysis)
 ## Overview
 
 This project explores transformer-based models across a variety of tasks, including causal language modeling, text classification, translation, and multimodal learning. It covers both custom implementations and applications of pretrained models like BERT, T5, and CLIP. Through hands-on coding in PyTorch and Hugging Face Transformers, this project emphasizes architectural intuition, transfer learning, and prompt engineering.
